@@ -19,5 +19,4 @@ The To-Do List application is a simple and intuitive app developed using Kotlin 
 -  ViewModel: Manages UI-related data in a lifecycle-conscious way.
 
 ## Screenshots
-
-![WhatsApp Image 2024-07-13 at 18 58 18_6f4bfd07](https://github.com/user-attachments/assets/956b0478-16c3-4a96-bcc9-8a07fb965e34)
+<img src = "https://github.com/user-attachments/assets/956b0478-16c3-4a96-bcc9-8a07fb965e34" alt = "Image 1" width = "200"/>
